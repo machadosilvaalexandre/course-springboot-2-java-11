@@ -1,4 +1,4 @@
-package com.lumbra.course.services.exceptions;
+package com.lumbra.course.resources.exceptions;
 
 import java.io.Serializable;
 import java.time.Instant;
